@@ -19,7 +19,7 @@
 .jumbotron{
     height: 400px;
     width: 100%;
-    background-image: url(img/jumbotron.jpg);
+    background-image: url(./img/jumbotron.jpg);
     background-position: center;
     background-size: cover;
     text-shadow: 4px 4px 4px black;
@@ -36,17 +36,17 @@
 }
 
 .imagen1{
-    background-image: url(/img/tiendaropaminorista.avif);
+    background-image: url(./img/tiendaropaminorista.avif);
     background-position: center;
     background-size: cover;
 }
 .imagen2{
-    background-image: url(/img/css.png);
+    background-image: url(./img/css.png);
     background-position: center;
     background-size: cover;
 }
 .imagen3{
-    background-image: url(/img/desarrolloweb.jpeg);
+    background-image: url(./img/desarrolloweb.jpeg);
     background-position: center;
     background-size: cover;
 }
@@ -56,17 +56,17 @@
     background-size: cover;
 }
 .imagen5{
-    background-image: url(/img/fundicion.jpeg);
+    background-image: url(./img/fundicion.jpeg);
     background-position: center;
     background-size: cover;
 }
 .imagen6{
-    background-image: url(/img/gavanoplastia.jpeg);
+    background-image: url(./img/gavanoplastia.jpeg);
     background-position: center;
     background-size: cover;
 }
 .imagen7{
-    background-image: url(/img/hotfix.jpeg);
+    background-image: url(./img/hotfix.jpeg);
     background-position: center;
     background-size: cover;
 }
@@ -84,42 +84,42 @@ article{
 }
 
 .job-1{
-    background-image: url(/img/job1.webp);
+    background-image: url(./img/job1.webp);
     background-position: center;
     background-size: cover;
 }
 .job-2{
-    background-image: url(/img/job2.jpeg);
+    background-image: url(./img/job2.jpeg);
     background-position: center;
     background-size: cover;
 }
 .job-3{
-    background-image: url(/img/job3.jpeg);
+    background-image: url(./img/job3.jpeg);
     background-position: center;
     background-size: cover;
 }
 .job-4{
-    background-image: url(/img/job4.jpg);
+    background-image: url(./img/job4.jpg);
     background-position: center;
     background-size: cover;
 }
 .job-5{
-    background-image: url(/img/job5.png);
+    background-image: url(./img/job5.png);
     background-position: center;
     background-size: cover;
 }
 .job-6{
-    background-image: url(/img/job6.jpeg);
+    background-image: url(./img/job6.jpeg);
     background-position: center;
     background-size: cover;
 }
 .job-7{
-    background-image: url(/img/job7.png);
+    background-image: url(./img/job7.png);
     background-position: center;
     background-size: cover;
 }
 .job-8{
-    background-image: url(/img/job8.jpeg);
+    background-image: url(./img/job8.jpeg);
     background-position: center;
     background-size: cover;
 }
@@ -134,22 +134,22 @@ article{
 }
 
 .img-1{
-    background-image: url(img/fullstack.jpeg);
+    background-image: url(./img/backend.avif);
     background-position: center;
     background-size: cover;
 }
 .img-2{
-    background-image: url(img/branding.webp);
+    background-image: url(./img/branding.webp);
     background-position: center;
     background-size: cover;
 }
 .img-3{
-    background-image: url(img/uxui.jpeg);
+    background-image: url(./img/uxui.jpeg);
     background-position: center;
     background-size: cover;
 }
 .img-4{
-    background-image: url(img/consultoria.webp);
+    background-image: url(./img/consultoria.webp);
     background-position: center;
     background-size: cover;
 }
