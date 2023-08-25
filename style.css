@@ -11,6 +11,30 @@
     height: 100%;
     object-fit: cover;
 }
+
+.color1{
+    color: grey;
+}
+
+.color2{
+    color: rgb(255, 97, 97);
+}
+
+.color3{
+    color: rgb(255, 221, 26);
+}
+
+.color4{
+    color: aqua;
+}
+
+.banderas{
+    font-size: 2rem;
+}
+
+.titulo1{
+    font-size: 3rem;
+}
 /* index finaliza */
 
 
