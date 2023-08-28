@@ -1,46 +1,52 @@
-*{
+* {
     margin: 0;
     padding: 0;
 }
+
 /* index inicia */
-.enlaces{
+.enlaces {
     text-decoration: none;
 }
 
-.fotoperfil{
+.fotoperfil {
     height: 100%;
     object-fit: cover;
 }
 
-.color1{
+.color1 {
     color: grey;
 }
 
-.color2{
+.color2 {
     color: rgb(255, 97, 97);
 }
 
-.color3{
+.color3 {
     color: rgb(255, 221, 26);
 }
 
-.color4{
+.color4 {
     color: aqua;
 }
 
-.banderas{
+.banderas {
     font-size: 2rem;
 }
 
-.titulo1{
+.titulo1 {
     font-size: 3rem;
+}
+
+html{
+    height: 100vh;
+    background-color: black;
 }
 /* index finaliza */
 
 
 
 /* sobre mi y trabajos */
-.jumbotron{
+.jumbotron {
     height: 400px;
     width: 100%;
     background-image: url(./img/jumbotron.jpg);
@@ -51,45 +57,52 @@
     justify-content: center;
 
 }
+
 /* sobre mi y trabajos */
 
 /* sobre mi inicia */
-.imagen{
+.imagen {
     width: auto;
     height: 400px;
 }
 
-.imagen1{
+.imagen1 {
     background-image: url(./img/tiendaropaminorista.avif);
     background-position: center;
     background-size: cover;
 }
-.imagen2{
+
+.imagen2 {
     background-image: url(./img/css.png);
     background-position: center;
     background-size: cover;
 }
-.imagen3{
+
+.imagen3 {
     background-image: url(./img/desarrolloweb.jpeg);
     background-position: center;
     background-size: cover;
 }
-.imagen4{
+
+.imagen4 {
     background-image: url(/img/diseñografico.jpeg);
     background-position: center;
     background-size: cover;
 }
-.imagen5{
+
+.imagen5 {
     background-image: url(./img/fundicion.jpeg);
     background-position: center;
     background-size: cover;
 }
-.imagen6{
+
+.imagen6 {
     background-image: url(./img/gavanoplastia.jpeg);
     background-position: center;
     background-size: cover;
 }
-.imagen7{
+
+.imagen7 {
     background-image: url(./img/hotfix.jpeg);
     background-position: center;
     background-size: cover;
@@ -98,51 +111,58 @@
 /* sobre mi termina */
 
 /* trabajos inicia */
-article{
+article {
     width: 100%;
     height: 300px;
 }
 
-#gelria .col-lg-3{
+#gelria .col-lg-3 {
     padding: 20px;
 }
 
-.job-1{
+.job-1 {
     background-image: url(./img/job1.webp);
     background-position: center;
     background-size: cover;
 }
-.job-2{
+
+.job-2 {
     background-image: url(./img/job2.jpeg);
     background-position: center;
     background-size: cover;
 }
-.job-3{
+
+.job-3 {
     background-image: url(./img/job3.jpeg);
     background-position: center;
     background-size: cover;
 }
-.job-4{
+
+.job-4 {
     background-image: url(./img/job4.jpg);
     background-position: center;
     background-size: cover;
 }
-.job-5{
+
+.job-5 {
     background-image: url(./img/job5.png);
     background-position: center;
     background-size: cover;
 }
-.job-6{
+
+.job-6 {
     background-image: url(./img/job6.jpeg);
     background-position: center;
     background-size: cover;
 }
-.job-7{
+
+.job-7 {
     background-image: url(./img/job7.png);
     background-position: center;
     background-size: cover;
 }
-.job-8{
+
+.job-8 {
     background-image: url(./img/job8.jpeg);
     background-position: center;
     background-size: cover;
@@ -152,27 +172,30 @@ article{
 
 /* servicios inicia */
 
-.img{
+.img {
     width: 100%;
     height: 300px;
 }
 
-.img-1{
+.img-1 {
     background-image: url(./img/backend.avif);
     background-position: center;
     background-size: cover;
 }
-.img-2{
+
+.img-2 {
     background-image: url(./img/branding.webp);
     background-position: center;
     background-size: cover;
 }
-.img-3{
+
+.img-3 {
     background-image: url(./img/uxui.jpeg);
     background-position: center;
     background-size: cover;
 }
-.img-4{
+
+.img-4 {
     background-image: url(./img/consultoria.webp);
     background-position: center;
     background-size: cover;
